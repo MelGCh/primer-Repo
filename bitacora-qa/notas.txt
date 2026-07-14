@@ -1,0 +1,4 @@
+Aprendi la importancia de otorgar permisos
+Es importante generar ramas para que no me genere que se borre todos 
+Siempre se debe revisar en que direccion se esta antes de trabajar 
+
