@@ -1,2 +1,1 @@
-Estado del proyecto: En desarrollo
-Estado del proyecto: terminado
+Estado del proyecto: Finalizado
