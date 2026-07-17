@@ -1,1 +1,3 @@
-ambientes QA, DEV y PROD
+ QA
+ DEV 
+ PROD
